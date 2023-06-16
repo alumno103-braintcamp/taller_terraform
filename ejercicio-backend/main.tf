@@ -1,5 +1,3 @@
-
-
 resource "aws_instance" "ejemplo-tf-3" {
   ami           = "ami-2757f631"
   instance_type = "t2.micro"
